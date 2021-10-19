@@ -1,5 +1,3 @@
-# OOPS-Assignment
-
 # Base Class: Person 
 Data members: name and age of type string <br>
 Member function: display() method that displays the name and age of an object created via the Person class <br>
